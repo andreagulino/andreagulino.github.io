@@ -10,6 +10,7 @@ a {color:#284f7a;}
 
 #main-content {background-color: white}
 
+
 #full-name{
     font-weight: 400;
     font-size: 3.5em;
@@ -18,7 +19,7 @@ a {color:#284f7a;}
 
 .actions-lg {font-size: 2.2em;}
 .actions > a {color: black;}
-.actions-sm{font-size: 2em; background-color: #f9f9f9;}
+.actions-sm{font-size: 2.5em; background-color: #f9f9f9;}
 
 #profile-pic {
     background-image: url('../img/profile-pic.jpg');
@@ -29,6 +30,7 @@ a {color:#284f7a;}
 }
 
 #intro {background-color: rgb(175 213 255 / 25%);}
+#intro-box {margin-left: 0px; margin-right: 0px;}
 
 #education {
     padding-top:20px;
@@ -230,7 +232,7 @@ a {color:#284f7a;}
 {
     display: none;
     float: left;
-    height: 100%;
+    height: auto;
     min-height: 1px;
 }
 [dir='rtl'] .slick-slide

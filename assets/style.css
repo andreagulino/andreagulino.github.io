@@ -11,7 +11,7 @@ a {color:#284f7a;}
 #main-content {background-color: white}
 
 
-#full-name{
+.full-name{
     font-weight: 400;
     font-size: 3.5em;
     font-family: 'Libre Barcode 128 Text', cursive;
@@ -61,6 +61,8 @@ a {color:#284f7a;}
 
 .activity-history > div:first-child {margin-top: 0px;}
 .activity-history ul {padding-left: 18px;}
+
+.institution-logo{margin-bottom: 10px;}
 
 .typed-cursor{
     font-size: 2em;

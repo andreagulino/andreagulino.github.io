@@ -37,11 +37,5 @@ $(document).ready(function(){
 
 $(window).on("load", function() {
     // weave your magic here.
-    $(".full-name").delay("1000").queue(function (next) { 
-        $(this).css('visibility', 'visible'); 
-        next(); 
-    });
-
-
-    $("#main-container").fadeIn( 400 );
+    setTimeout(function(){$('.full-name').css('visibility','visible').hide().fadeIn(1);}, 1);
 });

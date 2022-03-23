@@ -153,6 +153,10 @@ a {color:#284f7a;}
 
 #footer{min-height: 20px;}
 
+.logo-description {
+    margin-top:10px;
+}
+
 /* Slider */
 
 .slick-slide {

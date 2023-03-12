@@ -41,9 +41,10 @@ a {color:#284f7a;}
 
 .place, .inter-title {font-weight: 400;}
 
-.when, .where {margin-top:5px; font-size: 0.7em; color:#969696;}
+.when, .where {margin-top:5px; font-size: 0.8em; color:#324b50;}
 
-.sub-title{font-size: 0.7em; color:#969696;}
+.sub-title.skills  code {font-size: 0.8em; color:#e83e8c !important;}
+.sub-title.tech  code {font-size: 0.7em; color:#51666a !important;}
 
 #intro>div { 
     margin-left: 0px;
